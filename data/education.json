@@ -1,16 +1,16 @@
 [
     {
-        "university": "National Taiwan University of Science and Technology",
+        "university": "Semarang state Polytechnic",
 		"logo": "images/ntust-logo.png",
-        "major": "Master of Science in Electronic and Computer Engineering",
-        "year": "2016 - 2018",
-        "description": "GPA 4.10 of 4.3; Belong to Biomedical and Embedded System (BEST) Laboratory under supervision of Prof. Lin Yuan-Hsiang (Taiwan Chief of Electronic); Lead with 1 IEEE conference paper and 1 prestigious regional symposium paper"
+        "major": "Electronics Engineering Technology",
+        "year": "2022 - 2026",
+        "description": "I have made minsys for line follower robot using easy eda software, I have made a dc motor driver using easy eda software"
     },
     {
-        "university": "Universitas Diponegoro",
+        "school": "Senior High School PGRI 1 Pati",
 		"logo": "images/undip-logo.png",
-        "major": "Bachelor of Engineering in Electrical Engineering",
-        "year": "2011 - 2015",
-        "description": "GPA 3.41 of 4; Focusing on Biomedical Engineering and Microelectronic under advisory of Munawar Riyadi Ph. D.; Electronic Laboratory Coordinator in 2015; Outcome research with 2 IEEE conference paper"
+        "major": "natural science",
+        "year": "2019 - 2022",
+        "description": "never did anything because at that time I was attacked by the corona virus so I studied online"
     }
 ]
