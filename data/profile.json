@@ -20,18 +20,14 @@
     ],
     "cv": {
 			"text": "Download CV",
-			"file": "docs/cv.pdf",
+			"file": "docs/06_Bagas Agung P_CV.pdf",
 			"icon": "fas fa-file-pdf"
 	},
     "skills": [
-        {"name": "Biomedical Engineering", "icon": "fas fa-heart-pulse", "level": 90},
-        {"name": "Front-end IC Design", "icon": "fas fa-microchip", "level": 70},
-        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 90},
-        {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 90},
-	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 90},
-        {"name": "Web Programming", "icon": "fab fa-js", "level": 85},
-	{"name": "Project Management", "icon": "fas fa-list-check", "level": 95},
-	{"name": "Academic Writing", "icon": "fas fa-pen", "level": 90},
-	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 85}
+        {"name": "Electronic Engineering", "icon": "fas fa-electronic-engineer", "level": 90},
+        {"name": "PCB Designer", "icon": "fas fa-pcb-design", "level": 70},
+        {"name": "Mechanic Upgrades Motorcycle Lights", "icon": "fas fa-mechanic", "level": 90},
+        {"name": "Audio Mixer Operator", "icon": "fas fa-mixer", "level": 90},
+	{"name": "Soldering", "icon": "fas fa-electronic", "level": 90}
     ]
 }
