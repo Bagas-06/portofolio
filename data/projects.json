@@ -6,27 +6,18 @@
         "partner": "Berkah Jasa Biled",
         "role": "Mechanic",
         "description": "Upgrading motorcycle lights, custom stop lamps and adding variation lights .",
-        "image": "images/project1.png",
+        "image": "images/project1 (2).jpeg",
         "link": "Tiktok: berkahjasa1, Maps: berkah jasa biled."
 	},
     {
-	"title": "Upgrading Motorcycle Lights",
-        "year": "2025",
-        "fund": "Rp 2jt- 4,5jt",
-        "partner": "Berkah Jasa Biled",
-        "role": "Mechanic",
-        "description": "Upgrading motorcycle lights, custom stop lamps and adding variation lights .",
-        "image": "images/project1.png",
-        "link": "Tiktok: berkahjasa1, Maps: berkah jasa biled."
-	},
-    {
-	"title": "Upgrading Motorcycle Lights",
-        "year": "2025",
-        "fund": "Rp 2jt- 4,5jt",
-        "partner": "Berkah Jasa Biled",
-        "role": "Mechanic",
-        "description": "Upgrading motorcycle lights, custom stop lamps and adding variation lights .",
-        "image": "images/project1.png",
-        "link": "Tiktok: berkahjasa1, Maps: berkah jasa biled."
-    }
+	"title": "Design PCB",
+        "year": "2024",
+        "fund": "Rp 100-200k",
+        "partner": "Easy EDA",
+        "role": "Designer",
+        "description": "Design PCB minsys for line follower robot",
+        "image": "images/project2 (2).jpeg",
+        "link": ""
+	}
+    
 ]
