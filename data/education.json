@@ -6,5 +6,11 @@
         "year": "2022 - 2026",
         "description": "I have made minsys for line follower robot using easy eda software, I have made a dc motor driver using easy eda software"
     },
-   
+    {
+        "school": "Mboh wes ra gelem metu jeneng sekolah e",
+		"logo": "images/pgri.jpeg",
+        "major": "Mathematics and Natural Sciences",
+        "year": "2019 - 2022",
+        "description": "Never did anything because at that time I was attacked by the corona virus so I studied online"
+    }
 ]
