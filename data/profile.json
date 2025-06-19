@@ -28,10 +28,10 @@
 			"icon": "fas fa-file-pdf"
 	},
     "skills": [
-        {"name": "Electronic Engineering", "icon": "fas fa-electronic-engineer", "level": 90},
-        {"name": "PCB Designer", "icon": "fas fa-pcb-design", "level": 70},
-        {"name": "Mechanic Upgrades Motorcycle Lights", "icon": "fas fa-mechanic", "level": 90},
-        {"name": "Audio Mixer Operator", "icon": "fas fa-mixer", "level": 90},
-	{"name": "Soldering", "icon": "fas fa-electronic", "level": 90}
+        {"name": "Electronic Engineering", "icon": "fas fa-bolt", "level": 90},
+        {"name": "PCB Designer", "icon": "fas fa-desktop", "level": 70},
+        {"name": "Mechanic Upgrades Motorcycle Lights", "icon": "fas fa-briefcase", "level": 90},
+        {"name": "Audio Mixer Operator", "icon": "fas fa-audio-description", "level": 90},
+	{"name": "Soldering", "icon": "fas fa-microchip", "level": 90}
     ]
 }
