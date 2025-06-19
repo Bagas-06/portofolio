@@ -30,7 +30,7 @@
     "skills": [
         {"name": "Electronic Engineering", "icon": "fas fa-bolt", "level": 90},
         {"name": "PCB Designer", "icon": "fas fa-desktop", "level": 70},
-        {"name": "Mechanic Upgrades Motorcycle Lights", "icon": "fas fa-briefcase", "level": 90},
+        {"name": "Mechanic Upgrades Motorcycle Lights", "icon": "fas fa-screwdriver", "level": 90},
         {"name": "Audio Mixer Operator", "icon": "fas fa-audio-description", "level": 90},
 	{"name": "Soldering", "icon": "fas fa-microchip", "level": 90}
     ]
