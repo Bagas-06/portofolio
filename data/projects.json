@@ -12,12 +12,21 @@
     {
 	"title": "Design PCB",
         "year": "2024",
-        "fund": "Rp 100-200k",
+        "fund": "Rp 10-50k",
         "partner": "Software Easy EDA",
         "role": "Designer",
         "description": "Design PCB minsys for line follower robot",
         "image": "images/project2 (1).jpeg",
         "link": ""
-	}
-    
+	},
+    {
+	"title": "Line Follower Robot",
+        "year": "2024",
+        "fund": "Rp 100-200k",
+        "partner": "Robotic Team",
+        "role": "Designer PCB",
+        "description": "I made a minsys pcb and a dc motor driver pcb for a line follower robot",
+        "image": "images/project2 (2).jpeg",
+        "link": ""
+    }
 ]
